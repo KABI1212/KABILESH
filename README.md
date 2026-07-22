@@ -2,17 +2,22 @@
 <!--                                                             -->
 <!--              KABILESH K — GITHUB DEVELOPER PROFILE          -->
 <!--                                                             -->
-<!--       AI × SOFTWARE × OPEN SOURCE × CREATIVE ENGINEERING     -->
+<!--           AI × SOFTWARE × BUILDING × EXPLORING              -->
+<!--                                                             -->
+<!--       Theme: Emerald × Aqua × GitHub Dark                   -->
 <!--                                                             -->
 <!-- ============================================================= -->
 
 
 <div align="center">
 
-<!-- ========================== HERO ============================== -->
+
+<!-- ============================================================= -->
+<!--                           HERO                               -->
+<!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=82&duration=2800&pause=5000&color=8B5CF6&center=true&vCenter=true&width=1000&height=120&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=82&duration=2800&pause=5000&color=10B981&center=true&vCenter=true&width=1000&height=120&lines=Kabilesh+K"
 alt="Kabilesh K"
 />
 
@@ -40,40 +45,62 @@ Building intelligent applications at the intersection of
 <br/>
 
 <a href="https://github.com/KABI1212">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub"
+/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/kabi-k">
-<img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"
+/>
 </a>
+
 &nbsp;
+
 <a href="mailto:kabileshkoffl@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/EMAIL-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email"
+/>
 </a>
+
 &nbsp;
+
 <a href="https://leetcode.com/u/K_Kabilesh">
-<img src="https://img.shields.io/badge/LEETCODE-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img
+src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+alt="LeetCode"
+/>
 </a>
 
 <br/><br/>
 
 <img
-src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square"
+src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=10B981&style=flat-square"
+alt="Profile Views"
 />
 
 &nbsp;
 
 <img
-src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=8B5CF6"
+src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=2DD4BF"
+alt="GitHub Followers"
 />
 
 
-<!-- ====================== DEVELOPER INTRO ======================= -->
+<!-- ============================================================= -->
+<!--                       MY WORLD                            -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=850&height=85&lines=Hello%2C+World!"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=85&lines=MY%2C+World!"
 alt="Hello World"
 />
 
@@ -85,7 +112,7 @@ alt="Hello World"
 
 <p>
 <i>
-I'm a developer interested in building
+I'm a developer who enjoys building
 <b>AI-powered applications, intelligent assistants,
 full-stack platforms, and experimental software.</b>
 </i>
@@ -93,35 +120,42 @@ full-stack platforms, and experimental software.</b>
 
 <p>
 <i>
-I enjoy exploring how <b>Artificial Intelligence</b> can be combined
-with modern software engineering to create products that are
-practical, interactive, and genuinely useful.
+I explore how <b>Artificial Intelligence</b> can work together
+with modern software engineering to create digital products
+that are practical, interactive, and meaningful.
 </i>
 </p>
 
+<br/>
+
 <p>
 <b><i>
-Think → Experiment → Build → Improve → Repeat
+THINK　→　EXPERIMENT　→　BUILD　→　IMPROVE　→　REPEAT
 </i></b>
 </p>
 
 
-<!-- ======================= TECH STACK =========================== -->
+<!-- ============================================================= -->
+<!--                       TECH UNIVERSE                          -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=850&height=85&lines=Tech+Universe"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=85&lines=Tech+Universe"
 alt="Tech Universe"
 />
 
 <p>
 <i>
-The languages, frameworks, tools, and technologies behind what I build.
+The languages, frameworks, technologies, and tools behind what I build.
 </i>
 </p>
 
 <br/>
+
+
+<!-- LANGUAGES -->
 
 <h3>
 <b><i>Languages</i></b>
@@ -141,6 +175,8 @@ Java　•　Python　•　JavaScript　•　HTML5　•　CSS3
 </p>
 
 
+<!-- FRONTEND -->
+
 <h3>
 <b><i>Frontend & Interfaces</i></b>
 </h3>
@@ -159,13 +195,15 @@ React　•　Vite　•　Responsive UI　•　Modern Web Interfaces
 </p>
 
 
+<!-- BACKEND -->
+
 <h3>
 <b><i>Backend & Data</i></b>
 </h3>
 
 <img
 src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb&theme=dark"
-alt="Backend and Databases"
+alt="Backend and Database Technologies"
 />
 
 <br/><br/>
@@ -177,34 +215,64 @@ FastAPI　•　REST APIs　•　MySQL　•　MongoDB
 </p>
 
 
+<!-- AI -->
+
 <h3>
 <b><i>Artificial Intelligence</i></b>
 </h3>
 
-<img src="https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=for-the-badge"/>
+<img
+src="https://img.shields.io/badge/GENERATIVE_AI-10B981?style=for-the-badge"
+alt="Generative AI"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-181717?style=for-the-badge"/>
+
+<img
+src="https://img.shields.io/badge/MACHINE_LEARNING-161B22?style=for-the-badge"
+alt="Machine Learning"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge"/>
+
+<img
+src="https://img.shields.io/badge/NLP-2DD4BF?style=for-the-badge"
+alt="NLP"
+/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DEEP_LEARNING-181717?style=flat-square"/>
+<img
+src="https://img.shields.io/badge/DEEP_LEARNING-161B22?style=flat-square"
+alt="Deep Learning"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/COMPUTER_VISION-8B5CF6?style=flat-square"/>
+
+<img
+src="https://img.shields.io/badge/COMPUTER_VISION-10B981?style=flat-square"
+alt="Computer Vision"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-181717?style=flat-square"/>
+
+<img
+src="https://img.shields.io/badge/PROMPT_ENGINEERING-2DD4BF?style=flat-square"
+alt="Prompt Engineering"
+/>
 
 <br/><br/>
 
 <p>
 <i>
-Generative AI　•　Machine Learning　•　NLP
+Generative AI　•　Machine Learning　•　Natural Language Processing
 <br/>
 Deep Learning　•　Computer Vision　•　Prompt Engineering
 </i>
 </p>
 
+
+<!-- TOOLS -->
 
 <h3>
 <b><i>Developer Toolkit</i></b>
@@ -224,12 +292,14 @@ Git　•　GitHub　•　VS Code　•　Postman　•　npm
 </p>
 
 
-<!-- ======================== PROJECTS ============================ -->
+<!-- ============================================================= -->
+<!--                    FEATURED CREATIONS                        -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=58&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=900&height=90&lines=Featured+Creations"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=58&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=90&lines=Featured+Creations"
 alt="Featured Creations"
 />
 
@@ -254,7 +324,9 @@ alt="Featured Creations"
 </div>
 
 
-<!-- ========================= NOVA AI ============================ -->
+<!-- ============================================================= -->
+<!--                         NOVA AI                              -->
+<!-- ============================================================= -->
 
 <table width="100%">
 
@@ -280,15 +352,17 @@ alt="Featured Creations"
 
 <p>
 <i>
-A unified <b>AI platform</b> designed to bring multiple
-artificial-intelligence capabilities into one intelligent experience.
+A unified <b>AI-powered ecosystem</b> designed to bring
+multiple artificial-intelligence capabilities together
+into one intelligent experience.
 </i>
 </p>
 
 <p>
 <i>
-Built around multi-provider AI architecture, intelligent conversations,
-modern APIs, and a full-stack user experience.
+Built around multi-provider AI architecture,
+intelligent conversations, modern APIs,
+and a full-stack user experience.
 </i>
 </p>
 
@@ -301,17 +375,23 @@ modern APIs, and a full-stack user experience.
 </p>
 
 <a href="https://github.com/KABI1212/NOVA-AI">
+
 <img
-src="https://img.shields.io/badge/SOURCE_CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+src="https://img.shields.io/badge/SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"
+alt="NOVA AI Source Code"
 />
+
 </a>
 
 &nbsp;
 
 <a href="https://nova-ai-virid-three.vercel.app/">
+
 <img
-src="https://img.shields.io/badge/LIVE_DEMO-181717?style=for-the-badge&logo=vercel&logoColor=white"
+src="https://img.shields.io/badge/LIVE_DEMO-161B22?style=for-the-badge&logo=vercel&logoColor=white"
+alt="NOVA AI Live Demo"
 />
+
 </a>
 
 </td>
@@ -321,7 +401,9 @@ src="https://img.shields.io/badge/LIVE_DEMO-181717?style=for-the-badge&logo=verc
 </table>
 
 
-<!-- ========================= NEXA AI ============================ -->
+<!-- ============================================================= -->
+<!--                         NEXA AI                              -->
+<!-- ============================================================= -->
 
 <table width="100%">
 
@@ -347,15 +429,17 @@ src="https://img.shields.io/badge/LIVE_DEMO-181717?style=for-the-badge&logo=verc
 
 <p>
 <i>
-An <b>AI-powered career platform</b> designed to transform
-skills, interests, and goals into personalized career pathways.
+An <b>AI-powered career intelligence platform</b>
+designed to transform skills, interests, and goals
+into personalized career pathways.
 </i>
 </p>
 
 <p>
 <i>
-Explores intelligent recommendations, skill analysis,
-career matching, and personalized learning experiences.
+Explores intelligent career recommendations,
+skill analysis, personalized learning,
+and career-readiness experiences.
 </i>
 </p>
 
@@ -369,7 +453,8 @@ career matching, and personalized learning experiences.
 <a href="https://github.com/KABI1212/NEXA-AI">
 
 <img
-src="https://img.shields.io/badge/SOURCE_CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+src="https://img.shields.io/badge/SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"
+alt="NEXA AI Source Code"
 />
 
 </a>
@@ -381,7 +466,9 @@ src="https://img.shields.io/badge/SOURCE_CODE-8B5CF6?style=for-the-badge&logo=gi
 </table>
 
 
-<!-- ================== OTHER FEATURED PROJECTS =================== -->
+<!-- ============================================================= -->
+<!--              IMPACTSENSE + SECURECHAIN                      -->
+<!-- ============================================================= -->
 
 <table width="100%">
 
@@ -406,7 +493,7 @@ src="https://img.shields.io/badge/SOURCE_CODE-8B5CF6?style=for-the-badge&logo=gi
 <p>
 <i>
 A Machine Learning project exploring seismic data
-to predict earthquake impact and risk levels.
+to predict earthquake impact and potential risk levels.
 </i>
 </p>
 
@@ -419,7 +506,8 @@ to predict earthquake impact and risk levels.
 <a href="https://github.com/KABI1212/ImpactSense---Earthquake-Impact-Prediction-">
 
 <img
-src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+src="https://img.shields.io/badge/EXPLORE-10B981?style=for-the-badge&logo=github&logoColor=white"
+alt="ImpactSense"
 />
 
 </a>
@@ -462,7 +550,8 @@ and secure data handling.
 <a href="https://github.com/KABI1212/Blockchain-and-Cybersecurity-SecureChain">
 
 <img
-src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+src="https://img.shields.io/badge/EXPLORE-2DD4BF?style=for-the-badge&logo=github&logoColor=white"
+alt="SecureChain"
 />
 
 </a>
@@ -483,42 +572,71 @@ src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github
 <a href="https://github.com/KABI1212?tab=repositories">
 
 <img
-src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-10B981?style=for-the-badge&logo=github&logoColor=white"
+alt="Explore All Repositories"
 />
 
 </a>
 
 
-<!-- ==================== CURRENTLY EXPLORING ===================== -->
+<!-- ============================================================= -->
+<!--                     CURRENTLY EXPLORING                      -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=900&height=85&lines=Currently+Exploring"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=85&lines=Currently+Exploring"
 alt="Currently Exploring"
 />
 
 <p>
 <i>
-The technologies and ideas currently keeping me curious.
+Technologies and ideas currently keeping me curious.
 </i>
 </p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/MULTI--AGENT_AI-8B5CF6?style=for-the-badge"/>
+<img
+src="https://img.shields.io/badge/AI_AGENTS-10B981?style=for-the-badge"
+alt="AI Agents"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/LLM_APPLICATIONS-181717?style=for-the-badge"/>
+
+<img
+src="https://img.shields.io/badge/LLM_APPLICATIONS-161B22?style=for-the-badge"
+alt="LLM Applications"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-8B5CF6?style=for-the-badge"/>
+
+<img
+src="https://img.shields.io/badge/RAG_SYSTEMS-2DD4BF?style=for-the-badge"
+alt="RAG Systems"
+/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI_AUTOMATION-181717?style=for-the-badge"/>
+<img
+src="https://img.shields.io/badge/AI_AUTOMATION-161B22?style=for-the-badge"
+alt="AI Automation"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/FULL--STACK_AI-8B5CF6?style=for-the-badge"/>
+
+<img
+src="https://img.shields.io/badge/FULL_STACK_AI-10B981?style=for-the-badge"
+alt="Full Stack AI"
+/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/OPEN_SOURCE-181717?style=for-the-badge"/>
+
+<img
+src="https://img.shields.io/badge/OPEN_SOURCE-2DD4BF?style=for-the-badge"
+alt="Open Source"
+/>
 
 <br/><br/>
 
@@ -531,60 +649,85 @@ Intelligent Automation　•　AI-First Products　•　Open Source
 </p>
 
 
-<!-- ======================= GITHUB STATS ========================= -->
+<!-- ============================================================= -->
+<!--                       GITHUB ACTIVITY                        -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=850&height=85&lines=GitHub+Analytics"
-alt="GitHub Analytics"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=85&lines=GitHub+Activity"
+alt="GitHub Activity"
 />
 
-<p>
-<i>
-Code. Commit. Learn. Improve. Repeat.
-</i>
-</p>
+<h3>
+<b><i>
+“Code. Commit. Learn. Improve. Repeat.”
+</i></b>
+</h3>
 
 <br/>
 
 <img
-height="175"
-src="https://github-readme-stats.vercel.app/api?username=KABI1212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&include_all_commits=true&count_private=true"
-alt="Kabilesh GitHub Stats"
+src="https://img.shields.io/github/followers/KABI1212?label=Followers&style=for-the-badge&logo=github&labelColor=161B22&color=10B981"
+alt="Followers"
 />
 
 &nbsp;
 
 <img
-height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABI1212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"
-alt="Kabilesh Top Languages"
+src="https://img.shields.io/github/stars/KABI1212?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=161B22&color=2DD4BF"
+alt="GitHub Stars"
+/>
+
+&nbsp;
+
+<img
+src="https://komarev.com/ghpvc/?username=KABI1212&label=Profile+Views&color=10B981&style=for-the-badge"
+alt="Profile Views"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KABI1212&theme=github_dark"
+width="95%"
+alt="Kabilesh GitHub Profile Summary"
 />
 
 
-<!-- =================== CONTRIBUTION JOURNEY ===================== -->
+<!-- ============================================================= -->
+<!--                   CONTRIBUTION JOURNEY                       -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=900&height=85&lines=Contribution+Journey"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=85&lines=Contribution+Journey"
 alt="Contribution Journey"
 />
 
+<p>
+<i>
+A visual trail of consistency, experimentation, and progress.
+</i>
+</p>
+
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0D1117&color=34D399&line=10B981&point=2DD4BF&area=true&hide_border=true"
 alt="Kabilesh Contribution Graph"
 />
 
 
-<!-- ==================== DEVELOPER MINDSET ======================= -->
+<!-- ============================================================= -->
+<!--                    DEVELOPER MINDSET                         -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=900&height=85&lines=Developer+Mindset"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=85&lines=Developer+Mindset"
 alt="Developer Mindset"
 />
 
@@ -615,18 +758,20 @@ Improve what works
 </h2>
 
 
-<!-- ========================== CONNECT =========================== -->
+<!-- ============================================================= -->
+<!--                          CONNECT                             -->
+<!-- ============================================================= -->
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=60&duration=2500&pause=6000&color=8B5CF6&center=true&vCenter=true&width=1100&height=95&lines=Let's+Build+Something+Interesting"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=60&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=1100&height=95&lines=Let's+Build+Something+Interesting"
 alt="Let's Build Something Interesting"
 />
 
 <p>
 <i>
-Interested in AI, software, open-source projects,
+Interested in AI, software, open source,
 or building something new?
 </i>
 </p>
@@ -642,7 +787,8 @@ Let's connect, collaborate, and create.
 <a href="mailto:kabileshkoffl@gmail.com">
 
 <img
-src="https://img.shields.io/badge/EMAIL_ME-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"
+src="https://img.shields.io/badge/EMAIL_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email Me"
 />
 
 </a>
@@ -652,7 +798,8 @@ src="https://img.shields.io/badge/EMAIL_ME-8B5CF6?style=for-the-badge&logo=gmail
 <a href="https://www.linkedin.com/in/kabi-k">
 
 <img
-src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"
+src="https://img.shields.io/badge/LINKEDIN-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"
 />
 
 </a>
@@ -662,27 +809,33 @@ src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linke
 <a href="https://github.com/KABI1212?tab=repositories">
 
 <img
-src="https://img.shields.io/badge/EXPLORE_MY_CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+src="https://img.shields.io/badge/EXPLORE_MY_CODE-161B22?style=for-the-badge&logo=github&logoColor=white"
+alt="Explore My Code"
 />
 
 </a>
 
-<br/><br/><br/>
+<br/><br/>
+
+
+<!-- ============================================================= -->
+<!--                         SIGNATURE                            -->
+<!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=48&duration=3000&pause=5000&color=8B5CF6&center=true&vCenter=true&width=700&height=75&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=50&duration=3000&pause=5000&color=10B981&center=true&vCenter=true&width=700&height=80&lines=Kabilesh+K"
 alt="Kabilesh K"
 />
 
 <p>
-<i>
+<b><i>
 AI　×　SOFTWARE　×　INNOVATION
-</i>
+</i></b>
 </p>
 
 <sub>
 <i>
-BUILDING • LEARNING • EXPERIMENTING • EVOLVING
+BUILDING　•　LEARNING　•　EXPERIMENTING　•　EVOLVING
 </i>
 </sub>
 
