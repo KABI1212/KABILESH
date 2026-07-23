@@ -1,17 +1,12 @@
 <!-- ============================================================= -->
-
 <!--              KABILESH K — GITHUB DEVELOPER PROFILE           -->
-
 <!--              Theme: Emerald × Aqua × GitHub Dark             -->
-
 <!-- ============================================================= -->
 
 <div align="center">
 
 <!-- ============================================================= -->
-
 <!--                           HERO                                -->
-
 <!-- ============================================================= -->
 
 <img
@@ -49,7 +44,7 @@ alt="GitHub"
 />
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/kabi-k">
 <img
@@ -58,7 +53,7 @@ alt="LinkedIn"
 />
 </a>
 
- 
+&nbsp;
 
 <a href="mailto:kabileshkoffl@gmail.com">
 <img
@@ -67,7 +62,7 @@ alt="Email"
 />
 </a>
 
- 
+&nbsp;
 
 <a href="https://leetcode.com/u/K_Kabilesh">
 <img
@@ -83,7 +78,7 @@ src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=10B9
 alt="Profile Views"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=2DD4BF"
@@ -92,10 +87,9 @@ alt="GitHub Followers"
 
 <br/><br/>
 
+
 <!-- ============================================================= -->
-
 <!--                         MY WORLD                              -->
-
 <!-- ============================================================= -->
 
 <img
@@ -135,10 +129,9 @@ THINK　→　EXPERIMENT　→　BUILD　→　IMPROVE　→　REPEAT
 
 <br/>
 
+
 <!-- ============================================================= -->
-
 <!--                       TECH UNIVERSE                           -->
-
 <!-- ============================================================= -->
 
 <img
@@ -153,6 +146,7 @@ The languages, frameworks, technologies, and tools behind what I build.
 </p>
 
 <br/>
+
 
 <!-- LANGUAGES -->
 
@@ -175,6 +169,7 @@ Java　•　Python　•　JavaScript　•　HTML5　•　CSS3
 
 <br/>
 
+
 <!-- FRONTEND -->
 
 <h3>
@@ -195,6 +190,7 @@ React　•　Vite　•　Responsive UI　•　Modern Web Interfaces
 </p>
 
 <br/>
+
 
 <!-- BACKEND -->
 
@@ -217,7 +213,8 @@ FastAPI　•　REST APIs　•　MySQL　•　MongoDB
 
 <br/>
 
-<!-- AI -->
+
+<!-- ARTIFICIAL INTELLIGENCE -->
 
 <h3>
 <b><i>Artificial Intelligence</i></b>
@@ -228,14 +225,14 @@ src="https://img.shields.io/badge/GENERATIVE_AI-10B981?style=for-the-badge"
 alt="Generative AI"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/MACHINE_LEARNING-161B22?style=for-the-badge"
 alt="Machine Learning"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/NLP-2DD4BF?style=for-the-badge"
@@ -249,14 +246,14 @@ src="https://img.shields.io/badge/DEEP_LEARNING-161B22?style=flat-square"
 alt="Deep Learning"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/COMPUTER_VISION-10B981?style=flat-square"
 alt="Computer Vision"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/PROMPT_ENGINEERING-2DD4BF?style=flat-square"
@@ -275,14 +272,15 @@ Deep Learning　•　Computer Vision　•　Prompt Engineering
 
 <br/>
 
-<!-- TOOLS -->
+
+<!-- DEVELOPER TOOLS -->
 
 <h3>
 <b><i>Developer Toolkit</i></b>
 </h3>
 
 <img
-src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"
+src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"
 alt="Developer Tools"
 />
 
@@ -290,16 +288,15 @@ alt="Developer Tools"
 
 <p>
 <i>
-Git　•　GitHub　•　VS Code　•　Postman　•　npm
+Git　•　GitHub　•　VS Code　•　npm
 </i>
 </p>
 
 <br/>
 
+
 <!-- ============================================================= -->
-
 <!--                    FEATURED CREATIONS                         -->
-
 <!-- ============================================================= -->
 
 <img
@@ -327,10 +324,9 @@ alt="Featured Creations"
 
 </div>
 
+
 <!-- ============================================================= -->
-
 <!--                         NOVA AI                               -->
-
 <!-- ============================================================= -->
 
 <table width="100%">
@@ -388,7 +384,7 @@ alt="NOVA AI Source Code"
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://nova-ai-virid-three.vercel.app/">
 
@@ -405,10 +401,9 @@ alt="NOVA AI Live Demo"
 
 </table>
 
+
 <!-- ============================================================= -->
-
 <!--                         NEXA AI                               -->
-
 <!-- ============================================================= -->
 
 <table width="100%">
@@ -471,10 +466,9 @@ alt="NEXA AI Source Code"
 
 </table>
 
+
 <!-- ============================================================= -->
-
 <!--              IMPACTSENSE + SECURECHAIN                       -->
-
 <!-- ============================================================= -->
 
 <table width="100%">
@@ -523,6 +517,7 @@ alt="ImpactSense"
 
 </td>
 
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -570,6 +565,7 @@ alt="SecureChain"
 
 </table>
 
+
 <div align="center">
 
 <br/>
@@ -585,10 +581,9 @@ alt="Explore All Repositories"
 
 <br/><br/>
 
+
 <!-- ============================================================= -->
-
 <!--                     CURRENTLY EXPLORING                       -->
-
 <!-- ============================================================= -->
 
 <img
@@ -609,14 +604,14 @@ src="https://img.shields.io/badge/AI_AGENTS-10B981?style=for-the-badge"
 alt="AI Agents"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/LLM_APPLICATIONS-161B22?style=for-the-badge"
 alt="LLM Applications"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/RAG_SYSTEMS-2DD4BF?style=for-the-badge"
@@ -630,14 +625,14 @@ src="https://img.shields.io/badge/AI_AUTOMATION-161B22?style=for-the-badge"
 alt="AI Automation"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/FULL_STACK_AI-10B981?style=for-the-badge"
 alt="Full Stack AI"
 />
 
- 
+&nbsp;
 
 <img
 src="https://img.shields.io/badge/OPEN_SOURCE-2DD4BF?style=for-the-badge"
@@ -656,10 +651,9 @@ Intelligent Automation　•　AI-First Products　•　Open Source
 
 <br/>
 
+
 <!-- ============================================================= -->
-
 <!--                       GITHUB ANALYSIS                         -->
-
 <!-- ============================================================= -->
 
 <img
@@ -675,57 +669,25 @@ alt="GitHub Analysis"
 
 <p>
 <i>
-A visual analysis of my development activity, languages,
-repositories, commits, and open-source journey.
+A visual journey through my coding activity and contributions.
 </i>
 </p>
 
 <br/>
 
-<!-- GITHUB STATS -->
-
-<img
-height="190"
-src="https://github-readme-stats.vercel.app/api?username=KABI1212&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-alt="Kabilesh GitHub Statistics"
-/>
-
-<br/><br/>
-
-<!-- MOST USED LANGUAGES -->
-
-<img
-height="190"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABI1212&layout=compact&theme=github_dark&hide_border=true&langs_count=10"
-alt="Kabilesh Most Used Languages"
-/>
-
-<br/><br/>
-
-<!-- PROFILE ANALYSIS -->
+<!-- CONTRIBUTION GRAPH ONLY -->
 
 <img
 width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KABI1212&theme=github_dark"
-alt="Kabilesh GitHub Profile Analysis"
+src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0D1117&color=34D399&line=10B981&point=2DD4BF&area=true&hide_border=true&custom_title=KABILESH%27s%20Contribution%20Graph"
+alt="KABILESH's Contribution Graph"
 />
 
 <br/><br/>
 
-<!-- CONTRIBUTION ANALYSIS -->
-
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0D1117&color=34D399&line=10B981&point=2DD4BF&area=true&hide_border=true"
-alt="Kabilesh GitHub Contribution Analysis"
-/>
-
-<br/><br/>
 
 <!-- ============================================================= -->
-
 <!--                     DEVELOPER MINDSET                         -->
-
 <!-- ============================================================= -->
 
 <img
@@ -761,10 +723,9 @@ Improve what works
 
 <br/>
 
+
 <!-- ============================================================= -->
-
 <!--                          CONNECT                              -->
-
 <!-- ============================================================= -->
 
 <img
@@ -796,7 +757,7 @@ alt="Email Me"
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/kabi-k">
 
@@ -807,7 +768,7 @@ alt="LinkedIn"
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://github.com/KABI1212?tab=repositories">
 
@@ -820,10 +781,9 @@ alt="Explore My Code"
 
 <br/><br/><br/>
 
+
 <!-- ============================================================= -->
-
 <!--                         SIGNATURE                             -->
-
 <!-- ============================================================= -->
 
 <img
